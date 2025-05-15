@@ -11,3 +11,6 @@ To develop an interactive HR Analytics dashboard using Tableau that enables HR t
 - Conducted gender analysis across different age groups, highlighting diversity patterns and supporting inclusion initiatives.
 - Analyzed attrition rates based on educational qualifications, helping identify retention patterns linked to academic backgrounds
 
+## Dashboard Link
+- <a href="https://github.com/rawatdeepanshi/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png">Dashboard</a>
+
