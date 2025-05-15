@@ -1,2 +1,4 @@
-# HR-Analytics-Dashboard
-Designed an interactive HR Analytics dashboard in Tableau to track key workforce metrics, including active employee count, monthly attrition trends by department and year, average tenure, gender distribution across age groups, and education-wise attrition rates, supporting strategic HR decisions through data visualization.
+#HR-Analytics-Dashboard (Interactive dashboard creation using Tableau)
+##Project Objective
+To develop an interactive HR Analytics dashboard using Tableau that enables HR teams to monitor key workforce metrics such as employee headcount, attrition trends, demographic distributions, and educational impact on retention—supporting data-driven decision-making and strategic workforce planning.
+
